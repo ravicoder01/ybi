@@ -107,6 +107,7 @@ Contributions are welcome! To contribute:
 ## 👤 Author
 
 **Ravi** — [@ravicoder01](https://github.com/ravicoder01)
+raviroy2002@gmail.com
 
 Built as part of the **YBI Foundation** Machine Learning Internship.
 
