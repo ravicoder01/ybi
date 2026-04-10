@@ -114,4 +114,4 @@ Built as part of the **YBI Foundation** Machine Learning Internship.
 
 ## 📄 License
 
-This project is open-source and available for learning and academic use.
+This project is open-source and available for learning and academic use for beginners.
